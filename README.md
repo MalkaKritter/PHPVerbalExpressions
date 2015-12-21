@@ -58,4 +58,5 @@ The project supports Composer so you have to install [Composer](http://getcompos
     ln -s vendor/phpunit/phpunit/phpunit.php phpunit
     ./phpunit
     
-
+MalkaKritter-- Manager
+http://quoteshunter.com/sad-quotes/ 
